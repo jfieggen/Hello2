@@ -1,5 +1,2 @@
 Hello World!
 
-I'm feeling great today!
-
-This is a third line on the mood branch
