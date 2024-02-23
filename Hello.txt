@@ -1,11 +1,1 @@
 Hello World!
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-I'm feeling good!
-
-=======
-I'm feeling great today!
->>>>>>> mood
-=======
->>>>>>> d0d8262cdd0b29912a6df948d29bec74df3f96c9
